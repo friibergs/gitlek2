@@ -5,3 +5,5 @@
 *Här mår man bra* **speciellt med ett glas vin nära tillhands**.
 
 :smiley:
+
+![en pumpa](pumpa.jps)
